@@ -6,7 +6,7 @@
 
 ## 0. Thông tin học viên
 
-- Họ tên: 
+- Họ tên: Nguyen Duc Cuong
 - MSSV:2A202603040
 - Mã đề (A/B/C): A
 - Email:cuongsher@gmail.com
@@ -20,11 +20,11 @@ Ghi **trước khi vẽ**, mỗi người một dòng.
 
 | Mã | Frame xuất hiện | Frame cuối thấy được | Rẽ / dừng / đổi tốc độ ở frame | Bị che ở frame | Ghi chú |
 |---|---|---|---|---|---|
-| P1 |149 | | | | |
-| P2 |149 | | | | |
-| P3 |149 | | |38–46 | |
-| P4 |145 | | 110–135 | |
-| P5 |149 | | | |vào cảnh muộn, ở frame 44 |
+| P1 |0 |149 | | | |
+| P2 |0 |149 | | | |
+| P3 |0 |149 | |38–46 | |
+| P4 |0 |145 | |110–135 | |
+| P5 |44 |149 | | | |
 
 ## 2. Keyframe và thời gian (CP1, CP4)
 
@@ -47,7 +47,7 @@ Nhiều nhất ở P3 (71 keyframe, 50.4 / 100 frame, hơi vượt ngưỡng c�
 
 ## 3. Đoạn bị che (CP2)
 
-Người bị che: `P_`
+Người bị che: `P4`
 
 | Mốc | Frame |
 |---|---:|
